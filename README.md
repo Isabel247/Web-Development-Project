@@ -20,3 +20,5 @@ Features of Admin Panel
 
 
 
+<img width="455" alt="image" src="https://user-images.githubusercontent.com/110111758/187386224-84cdc21b-e7d1-4743-8e99-f5ea4ab0616d.png">
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/110111758/187386393-4a1a1d0e-ce5a-4901-a4fe-18f97606c17b.png">
